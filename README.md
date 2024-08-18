@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mspotless
-- 👀 I’m interested in everything data
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data science, data analysis machine learning 
+- 👀 I’m interested in everything that had to do with cybersecurity
+- 🌱 aspiring cyber security analysis
+- 💞️ I’m looking understanding and explore on cyber security
 - 📫 How to reach me +2349069202455
 
 <!---

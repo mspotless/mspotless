@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @mspotless
 - 👀 I’m interested in everything that had to do with cybersecurity
-- 🌱 aspiring cyber security analysis
-- 💞️ I’m looking understanding and explore on cyber security
+- 🌱 cybersecurity analyst
+- 💞️ open to learning new things
 - 📫 How to reach me +2349069202455
+- linkedln: Moses Ameh
 
 <!---
 mspotless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

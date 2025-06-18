@@ -3,9 +3,6 @@
 - 🌱 cybersecurity analyst
 - 💞️ open to learning new things
 - 📫 How to reach me +2349069202455
-- linkedln: Moses Ameh
-
-<!---
-mspotless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- linkedln: www.linkedin.com/in/
+moses-ameh-b221b5280
+  
